@@ -14,6 +14,7 @@
 		8CF50D4F222B8286003FDAB7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8CF50D4D222B8286003FDAB7 /* LaunchScreen.storyboard */; };
 		8CF50D5A222B8287003FDAB7 /* SimpleWeatherTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF50D59222B8287003FDAB7 /* SimpleWeatherTests.swift */; };
 		8CF50D65222B8287003FDAB7 /* SimpleWeatherUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CF50D64222B8287003FDAB7 /* SimpleWeatherUITests.swift */; };
+		8CF50D73222B83AA003FDAB7 /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8CF50D72222B83AA003FDAB7 /* background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		8CF50D60222B8287003FDAB7 /* SimpleWeatherUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleWeatherUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8CF50D64222B8287003FDAB7 /* SimpleWeatherUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleWeatherUITests.swift; sourceTree = "<group>"; };
 		8CF50D66222B8287003FDAB7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8CF50D72222B83AA003FDAB7 /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				8CF50D44222B8283003FDAB7 /* AppDelegate.swift */,
 				8CF50D46222B8283003FDAB7 /* ViewController.swift */,
 				8CF50D48222B8283003FDAB7 /* Main.storyboard */,
+				8CF50D72222B83AA003FDAB7 /* background.jpg */,
 				8CF50D4B222B8286003FDAB7 /* Assets.xcassets */,
 				8CF50D4D222B8286003FDAB7 /* LaunchScreen.storyboard */,
 				8CF50D50222B8286003FDAB7 /* Info.plist */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8CF50D4F222B8286003FDAB7 /* LaunchScreen.storyboard in Resources */,
+				8CF50D73222B83AA003FDAB7 /* background.jpg in Resources */,
 				8CF50D4C222B8286003FDAB7 /* Assets.xcassets in Resources */,
 				8CF50D4A222B8283003FDAB7 /* Main.storyboard in Resources */,
 			);
